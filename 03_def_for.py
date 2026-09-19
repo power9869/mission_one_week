@@ -1,5 +1,4 @@
 # 여기에 들어갈 코드를 작성해주세요.
-total = 0
 
 def sum_even(number):
     total = 0
